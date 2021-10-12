@@ -1,0 +1,16 @@
+= Openshift Container Platform 4 on Asus PN50
+Nick Hardiman <nick@silvan.uk>
+:source-highlighter: highlight.js
+:revdate: 12-10-2021
+
+[NOTE]
+====
+These docs have nothing to do with any https://docs.openshift.com/[official Openshift docs].
+====
+
+
+== issues with these articles
+
+Something wrong? 
+Open an https://github.com/nickhardiman/articles-ocp4/issues[issue on GitHub].
+

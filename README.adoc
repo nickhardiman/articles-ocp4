@@ -1,0 +1,7 @@
+= Openshift Container Platform 4
+Nick Hardiman 
+:source-highlighter: highlight.js
+:revdate: 12-10-2021
+
+I'm working on some pieces of writing.
+

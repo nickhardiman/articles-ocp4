@@ -5,4 +5,4 @@ Nick Hardiman <nick@silvan.uk>
 
 A working RHEL 8 machine, with virtual network, virtual machine, DNS
 
-* xref:rhel8-on-pn50:ROOT:index.adoc[]
+* xref:rhel8:ROOT:index.adoc[]
